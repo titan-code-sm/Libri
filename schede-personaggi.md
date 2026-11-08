@@ -4,15 +4,15 @@ Genera queste sei schede prima di qualsiasi scena. Quando una ti convince, salva
 
 Consigli:
 - Fai 4 versioni per scheda e scegli quella più simpatica e leggibile.
-- Genera Leo per primo: poi caricalo come riferimento di stile per tutti gli altri, così hanno lo stesso tratto.
+- Genera Samuele per primo: poi caricalo come riferimento di stile per tutti gli altri, così hanno lo stesso tratto.
 - Se lo strumento lo permette, usa formato orizzontale 3:2 per le schede.
 
 ---
 
-## 1. Leo
+## 1. Samuele
 ```
 Character design sheet for a children's picture book, soft watercolor style, thin delicate outlines, warm pastel colors, plain white background.
-Leo, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers.
+Samuele, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers.
 Show the same character three times side by side: front view standing, side view, and a happy waving pose. Full body, consistent proportions, friendly and curious expression.
 No text, no letters, no logos.
 ```
@@ -83,10 +83,10 @@ No text, no letters, no logos.
 
 ## Extra (per i libri successivi)
 
-### Mamma di Leo
+### Mamma di Samuele
 ```
 Character design sheet for a children's picture book, soft watercolor style, thin delicate outlines, warm pastel colors, plain white background.
-Leo's mother, a kind woman with brown hair tied up in a bun, a light-blue sweater, blue jeans, brown flat shoes and small hoop earrings.
+Samuele's mother, a kind woman with brown hair tied up in a bun, a light-blue sweater, blue jeans, brown flat shoes and small hoop earrings.
 Show the same character three times side by side: front view standing, side view, and a pose hugging an invisible child. Full body, consistent proportions, warm expression.
 No text, no letters, no logos.
 ```
@@ -95,7 +95,7 @@ No text, no letters, no logos.
 Da usare dopo aver approvato le schede, caricandole tutte come riferimento: serve a verificare che i personaggi stiano bene insieme.
 ```
 Group illustration for a children's picture book, soft watercolor style, thin delicate outlines, warm pastel colors, sunny country road at golden hour.
-Leo, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers, standing next to Grandpa Gino, a cheerful elderly man with a thick grey mustache, round glasses, rosy cheeks, a dark green vest over a white shirt, brown trousers and a straw hat. Biscotto, an orange tabby cat with a long tail and a light-blue collar with a small golden bell, sits at their feet. Behind them Mat, a friendly man ambulance driver in his early thirties with short dark brown hair, faded on the sides and tousled on top, a short neat dark beard, dark brown eyes, rosy cheeks and a big cheerful smile, wearing a red uniform jacket and matching red trousers with thin yellow piping, silver reflective bands edged in yellow across the chest, around the sleeves and around the lower legs, a black collar showing at the neck, black lace-up boots, no badges, no logos, and Marta, an adult woman nurse in her thirties with straight dark shoulder-length hair, brown eyes, rosy cheeks and a gentle smile, wearing a red uniform jacket and matching red trousers with thin yellow piping, silver reflective bands edged in yellow across the chest, around the sleeves and around the lower legs, a black collar showing at the neck, black lace-up boots, no badges, no logos, stand next to Sirena Blu, a friendly rounded yellow ambulance van with red and orange diagonal chevron stripes, blue emergency lights on the roof and on the front, round gentle headlights like kind eyes and a grille with a faint hint of a smile, the word "AMBULANZA" written mirrored (reversed) on the hood and written normally along both sides, no other text, no logos.
+Samuele, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers, standing next to Grandpa Gino, a cheerful elderly man with a thick grey mustache, round glasses, rosy cheeks, a dark green vest over a white shirt, brown trousers and a straw hat. Biscotto, an orange tabby cat with a long tail and a light-blue collar with a small golden bell, sits at their feet. Behind them Mat, a friendly man ambulance driver in his early thirties with short dark brown hair, faded on the sides and tousled on top, a short neat dark beard, dark brown eyes, rosy cheeks and a big cheerful smile, wearing a red uniform jacket and matching red trousers with thin yellow piping, silver reflective bands edged in yellow across the chest, around the sleeves and around the lower legs, a black collar showing at the neck, black lace-up boots, no badges, no logos, and Marta, an adult woman nurse in her thirties with straight dark shoulder-length hair, brown eyes, rosy cheeks and a gentle smile, wearing a red uniform jacket and matching red trousers with thin yellow piping, silver reflective bands edged in yellow across the chest, around the sleeves and around the lower legs, a black collar showing at the neck, black lace-up boots, no badges, no logos, stand next to Sirena Blu, a friendly rounded yellow ambulance van with red and orange diagonal chevron stripes, blue emergency lights on the roof and on the front, round gentle headlights like kind eyes and a grille with a faint hint of a smile, the word "AMBULANZA" written mirrored (reversed) on the hood and written normally along both sides, no other text, no logos.
 Everyone smiling, wide shot, square format, empty sky in the top third.
 No other text besides AMBULANZA, no logos.
 ```

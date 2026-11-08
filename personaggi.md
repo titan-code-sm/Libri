@@ -2,20 +2,20 @@
 
 La riga "Prompt (EN)" va copiata identica, parola per parola, in ogni prompt per le illustrazioni. La riga "Aspetto fisso" è la stessa descrizione in italiano, per chi scrive i testi.
 
-## Leo
+## Samuele
 - **Ruolo:** protagonista, 5 anni, curioso e un po' timido, diventa coraggioso facendo la cosa giusta.
 - **Carattere:** fa tante domande, ha paura delle cose nuove ma non si arrende.
 - **Aspetto fisso:** capelli castani ricci, occhi grandi marroni, maglietta gialla a righe blu, pantaloncini verdi, scarpe rosse.
-- **Prompt (EN):** Leo, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers
+- **Prompt (EN):** Samuele, a 5-year-old boy with curly brown hair and big brown eyes, wearing a yellow t-shirt with blue horizontal stripes, green shorts and red sneakers
 
 ## Nonno Gino
-- **Ruolo:** il nonno di Leo, ama l'orto e le storie.
+- **Ruolo:** il nonno di Samuele, ama l'orto e le storie.
 - **Carattere:** spiritoso, tranquillo, dice "Accipicchia!" quando è sorpreso.
 - **Aspetto fisso:** baffi grigi folti, occhiali tondi, gilet verde scuro, cappello di paglia, guance rosse.
 - **Prompt (EN):** Grandpa Gino, a cheerful elderly man with a thick grey mustache, round glasses, rosy cheeks, a dark green vest over a white shirt, brown trousers and a straw hat
 
 ## Biscotto
-- **Ruolo:** il gatto di casa, segue Leo ovunque. Non parla.
+- **Ruolo:** il gatto di casa, segue Samuele ovunque. Non parla.
 - **Aspetto fisso:** gatto arancione tigrato, coda lunga, collarino azzurro con campanellino che fa "din din".
 - **Prompt (EN):** Biscotto, an orange tabby cat with a long tail and a light-blue collar with a small golden bell
 
@@ -44,7 +44,7 @@ La riga "Prompt (EN)" va copiata identica, parola per parola, in ogni prompt per
 - **Regola:** non si vede mai il volto. Nelle illustrazioni è un fumetto con un'onda sonora e un cuore.
 - **Prompt (EN):** a speech bubble coming from the phone containing a soft sound wave and a small red heart, no person visible
 
-## Mamma di Leo
+## Mamma di Samuele
 - **Ruolo:** compare all'inizio e alla fine dei libri.
 - **Aspetto fisso:** capelli castani raccolti, maglione azzurro, jeans, ballerine marroni, orecchini a cerchio piccoli.
-- **Prompt (EN):** Leo's mother, a kind woman with brown hair tied up in a bun, a light-blue sweater, blue jeans, brown flat shoes and small hoop earrings
+- **Prompt (EN):** Samuele's mother, a kind woman with brown hair tied up in a bun, a light-blue sweater, blue jeans, brown flat shoes and small hoop earrings

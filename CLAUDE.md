@@ -30,6 +30,6 @@ Pubblicazione su Amazon KDP (copertina flessibile a colori, 21,6 × 21,6 cm) e v
 | --- | --- | --- | --- |
 | 1 | Sirena Blu e il Numero Magico | Chiamare i soccorsi | Prima stesura completa |
 | 2 | Sirena Blu e la bua di Biscotto | Piccole ferite, cerotti, quando chiamare un adulto | Da scrivere |
-| 3 | Leo al Pronto Soccorso | Cosa succede in ospedale, senza paura | Da scrivere |
+| 3 | Samuele al Pronto Soccorso | Cosa succede in ospedale, senza paura | Da scrivere |
 | 4 | Sirena Blu e il giorno di pioggia | Sicurezza in strada, attraversare con un adulto | Da scrivere |
 | 5 | Il compleanno di Sirena Blu | La squadra del soccorso e i suoi mestieri | Da scrivere |

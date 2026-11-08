@@ -14,7 +14,7 @@ Un file `libri/libro-N/testo.md` con:
 
 ## Regole
 - 30–60 parole per pagina doppia; frasi di massimo 12 parole.
-- Leo è sempre il protagonista e risolve il problema chiedendo aiuto nel modo giusto.
+- Samuele è sempre il protagonista e risolve il problema chiedendo aiuto nel modo giusto.
 - Usa solo i personaggi della bibbia. Se ti serve un personaggio nuovo, proponilo nei "Dubbi" con nome e aspetto, senza usarlo come definitivo.
 - Il bambino non fa mai manovre di soccorso: chiama un adulto o il numero magico.
 - Ogni informazione pratica di cui non sei sicuro → `[VERIFICA MAT]`.
