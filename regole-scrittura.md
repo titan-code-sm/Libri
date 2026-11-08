@@ -8,8 +8,8 @@
 
 ## Struttura della storia
 1. Pagine 1–4: situazione tranquilla e quotidiana, presentazione.
-2. Pagine 5–8: il piccolo problema. Leo ha un po' di paura.
-3. Pagine 9–16: Leo si ricorda cosa fare e lo fa; arrivano gli aiuti.
+2. Pagine 5–8: il piccolo problema. Samuele ha un po' di paura.
+3. Pagine 9–16: Samuele si ricorda cosa fare e lo fa; arrivano gli aiuti.
 4. Pagine 17–20: scoperta (Mat o Marta spiegano qualcosa).
 5. Pagine 21–24: lieto fine e la "lezione" detta in modo semplice.
 
